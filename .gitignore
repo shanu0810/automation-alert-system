@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+dist-server/
+coverage/
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+*.pyo
+autoops.db
+.pytest_cache/
+.env*
+!.env.example
